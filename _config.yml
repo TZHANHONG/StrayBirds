@@ -117,7 +117,7 @@ disqus:
 
 username: TZHANHONG
 baseurl: /StrayBirds
-markdown: redcarpet
+markdown: 
 safe: false
 highlighter: rouge
 title: 飞鸟集
